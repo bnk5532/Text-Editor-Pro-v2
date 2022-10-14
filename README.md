@@ -1,7 +1,7 @@
 # Text-Editor-Pro-v2
 
 ## Description
-A PWS app designed to allow text editing while online, as well as offline when the app is install from the browser.
+A PWS app designed to allow text editing while online, as well as offline when the app is easily installed from the browser.
 
 ## Languages
 * HTML
